@@ -16,14 +16,14 @@ Click on this link to [allow access to your Mendeley account](http://152.2.81.21
 
 ## step 3: install toolbar
 
-There are a few steps to installing the toolbar. First, turn off Google Instant (the toolbar can't parse Intant results):
+First, turn off Google Instant (the toolbar can't parse Instant results):
 
 1. Go to <http://www.google.com>.
 1. Search for something (doesn't matter what)
 1. click the gear icon in at the top-right of the screen and select "Search settings."
 1.  Under "Google Instant predictions," select "Never show Instant results."
 
-Next, install the toolbar that will track your searches:
+Second, install the toolbar that will track your searches:
 
 1. Click this link to (A) [download the toolbar](https://github.com/jasonpriem/schol-search-study/raw/auto-record/lemurlogtoolbar.xpi) OR (B) [download the toolbar](https://github.com/jasonpriem/schol-search-study/raw/master/lemurlogtoolbar.xpi). Save it somewhere handy on your machine.
 1. Drag the lemurlogtoolbar.xpi file you just downloaded onto an active Firefox window, and click "install now" on the dialog that pops up.
